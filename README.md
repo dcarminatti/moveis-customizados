@@ -1,7 +1,7 @@
 # Móveis customizados
 
-![Screenshot]()
+![Screenshot](https://github.com/dcarminatti/moveis-customizados/blob/9f7b09acc39d895ee1102081819329f620fb8b17/screenshot.png?raw=true)
 
 ### Descrição
 
-    Uma simples landpage com imagem e textos, usando somento HTML e CSS para criar esta página.
+    Uma simples landing page com imagem e textos, usando somente HTML e CSS para criar esta página.
