@@ -1,6 +1,6 @@
 # Móveis customizados
 
-![Screenshot](https://github.com/dcarminatti/moveis-customizados/blob/9f7b09acc39d895ee1102081819329f620fb8b17/screenshot.png?raw=true)
+![screenshot](https://github.com/dcarminatti/moveis-customizados/assets/68664365/bba62767-c661-4491-a9a0-9c9b28e63108)
 
 ### Descrição
 
